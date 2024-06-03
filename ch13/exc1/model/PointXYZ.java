@@ -1,7 +1,8 @@
-package gr.aueb.excercises.OOP.ch13.model;
+package gr.aueb.excercises.OOP.ch13.exc1.model;
 
-
-
+/**
+ *
+ */
 public class PointXYZ {
     private int x;
     private int y;
