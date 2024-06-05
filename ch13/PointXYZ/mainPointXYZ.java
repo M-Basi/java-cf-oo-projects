@@ -1,6 +1,6 @@
-package gr.aueb.excercises.OOP.ch13.exc1;
+package gr.aueb.excercises.OOP.ch13.PointXYZ;
 
-import gr.aueb.excercises.OOP.ch13.exc1.model.PointXYZ;
+import gr.aueb.excercises.OOP.ch13.PointXYZ.model.PointXYZ;
 
 public class mainPointXYZ {
 

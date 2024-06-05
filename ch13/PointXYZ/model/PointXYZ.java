@@ -1,4 +1,4 @@
-package gr.aueb.excercises.OOP.ch13.exc1.model;
+package gr.aueb.excercises.OOP.ch13.PointXYZ.model;
 
 /**
  *
